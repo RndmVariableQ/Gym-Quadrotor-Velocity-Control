@@ -17,5 +17,5 @@ pip install rlschool
 # Demo:
 ![](quadratorVctrl.gif?raw=True)
 
-Trained through 500000 episodes + 140000 episodes of fine tuning
+Trained through 500000 episodes + 110000 episodes of fine tuning
 - Average Test Score: -19.18

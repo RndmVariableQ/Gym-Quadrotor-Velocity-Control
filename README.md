@@ -8,8 +8,8 @@ This is a Baidu Reinforcement Learning Camp reproduction project, trying to impl
 - Paddlepaddle 1.6.1 or higher (https://github.com/PaddlePaddle/Paddle)
 - RLSchool -
 ```
-pip install parl
-pip install paddlepaddle
+pip install parl==1.3.1
+pip install paddlepaddle==1.6.1
 pip install rlschool
 ``` 
 

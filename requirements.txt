@@ -1,5 +1,5 @@
 parl==1.3.1
-paddlepaddle==1.6.1
+paddlepaddle==2.5.0
 numpy
 pygame
 gym
